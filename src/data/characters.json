@@ -1,0 +1,3615 @@
+[
+  {
+    "ID": 3163,
+    "Name": "Glyndŵr",
+    "Version": "4.0",
+    "Rarity": 4,
+    "Afflatus": "Beast",
+    "Race": "Mythical Creatures",
+    "DMG Type": "Reality",
+    "Gender": "Male",
+    "Tags": [
+      "DPS",
+      "Support",
+      "Extra Action",
+      "Follow-Up"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Glyndŵr",
+      "zh": "格林杜尔",
+      "tw": "格林杜爾",
+      "jp": "グリンドゥル",
+      "kr": "글린두르"
+    }
+  },
+  {
+    "ID": 3158,
+    "Name": "Drake",
+    "Version": "4.0",
+    "Rarity": 6,
+    "Afflatus": "Beast",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Male",
+    "Tags": [
+      "Lingering Glow",
+      "Support",
+      "DPS"
+    ],
+    "Other Name": "Mordred",
+    "LocaleName": {
+      "en": "Drake",
+      "zh": "德雷克",
+      "tw": "N/A",
+      "jp": "N/A",
+      "kr": "N/A"
+    }
+  },
+  {
+    "ID": 3157,
+    "Name": "Narcissus",
+    "Version": "3.9",
+    "Rarity": 6,
+    "Afflatus": "Beast",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "Heal",
+      "Ultimate",
+      "Support"
+    ],
+    "Other Name": [
+      "Γαλήνη",
+      "Νάρκισσος"
+    ],
+    "Alpha": "Galene",
+    "LocaleName": {
+      "en": "Narcissus",
+      "zh": "纳西索斯",
+      "tw": "N/A",
+      "jp": "N/A",
+      "kr": "N/A"
+    }
+  },
+  {
+    "ID": 3156,
+    "Name": "Hedone",
+    "Version": "3.9",
+    "Rarity": 6,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "Support",
+      "Conduit",
+      "DPS"
+    ],
+    "Other Name": [
+      "Εὐδώρα",
+      "ἡδονή"
+    ],
+    "Alpha": "Eudora",
+    "LocaleName": {
+      "en": "Hedone",
+      "zh": "赫多涅",
+      "tw": "N/A",
+      "jp": "N/A",
+      "kr": "N/A"
+    }
+  },
+  {
+    "ID": 3155,
+    "Name": "Huntsworn Lilya",
+    "Version": "4.0",
+    "Rarity": 6,
+    "Afflatus": "Star",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Pursuit"
+    ],
+    "Other Name": "Лиля",
+    "LocaleName": {
+      "en": "Huntsworn Lilya",
+      "zh": "狩勋女巫红弩箭",
+      "tw": "N/A",
+      "jp": "N/A",
+      "kr": "N/A"
+    },
+    "anim": [
+      315501
+    ]
+  },
+  {
+    "ID": 3154,
+    "Name": "Silverwing Eagle",
+    "Version": "3.7",
+    "Rarity": 5,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Ritual",
+      "Support",
+      "Follow-Up"
+    ],
+    "Other Name": "Eagle",
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Silverwing Eagle",
+      "zh": "银装小春雀儿",
+      "tw": "銀裝小春雀兒",
+      "jp": "イーグル",
+      "kr": "은빛 이글"
+    }
+  },
+  {
+    "ID": 3151,
+    "Name": "NORA",
+    "Version": "s02",
+    "Rarity": 4,
+    "Afflatus": "Spirit",
+    "Race": "Unclassified",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "Support",
+      "DPS"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "NORA",
+      "zh": "诺拉",
+      "tw": "諾拉",
+      "jp": "ノラ",
+      "kr": "노라"
+    }
+  },
+  {
+    "ID": 3149,
+    "Name": "The Twins",
+    "Version": "s02",
+    "Rarity": 6,
+    "Afflatus": [
+      "Mineral",
+      "Star"
+    ],
+    "Race": "Unclassified",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Conduit"
+    ],
+    "Other Name": "Близняшки",
+    "LocaleName": {
+      "en": "The Twins",
+      "zh": "双生舞伶",
+      "tw": "雙生舞伶",
+      "jp": "双子",
+      "kr": "쌍둥이"
+    }
+  },
+  {
+    "ID": 3147,
+    "Name": "Ms. Stranger",
+    "Version": "3.7",
+    "Rarity": 6,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Ritual"
+    ],
+    "Other Name": [
+      "Moth",
+      "Pupa",
+      "Ms. Grace",
+      "Kayla",
+      "Cecilie",
+      "Newman",
+      "Alice",
+      "Roya",
+      "Lily"
+    ],
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Ms. Stranger",
+      "zh": "无名者",
+      "tw": "無名者",
+      "jp": "ストレンジャー",
+      "kr": "미스 스트레인저"
+    }
+  },
+  {
+    "ID": 3146,
+    "Name": "Rhiannon",
+    "Version": "3.7",
+    "Rarity": 6,
+    "Afflatus": "Beast",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "Support",
+      "All-Rounder"
+    ],
+    "Other Name": [
+      "Aderyn Tywyll"
+    ],
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Rhiannon",
+      "zh": "小瑞安侬",
+      "tw": "小瑞安儂",
+      "jp": "リアンノン",
+      "kr": "리아논"
+    },
+    "anim": [
+      314601
+    ]
+  },
+  {
+    "ID": 3145,
+    "Name": "Everecho",
+    "Version": "3.8",
+    "Rarity": 6,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "Heal",
+      "Conduit",
+      "Support"
+    ],
+    "Other Name": "",
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Everecho",
+      "zh": "回声谣",
+      "tw": "回聲謠",
+      "jp": "エバーエコー",
+      "kr": "에버에코"
+    }
+  },
+  {
+    "ID": 3144,
+    "Name": "Coppélia",
+    "Version": "3.7",
+    "Rarity": 6,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Conduit",
+      "Support"
+    ],
+    "Other Name": "",
+    "Alpha": "Coppelia",
+    "LocaleName": {
+      "en": "Coppélia",
+      "zh": "珐琅眼",
+      "tw": "琺瑯眼",
+      "jp": "コッペリア",
+      "kr": "코펠리아"
+    }
+  },
+  {
+    "ID": 3143,
+    "Name": "Enigma",
+    "Version": "3.6",
+    "Rarity": 6,
+    "Afflatus": "Intelligence",
+    "Race": "Human",
+    "DMG Type": "Reality",
+    "Gender": "Male",
+    "Tags": [
+      "Shield",
+      "Dynamo",
+      "Support",
+      "Array"
+    ],
+    "Other Name": [
+      "Adler Hofmann"
+    ],
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Enigma",
+      "zh": "哑谜",
+      "tw": "啞謎",
+      "jp": "エニグマ",
+      "kr": "이니그마"
+    }
+  },
+  {
+    "ID": 3142,
+    "Name": "Ramona",
+    "Version": "3.5",
+    "Rarity": 6,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Poison",
+      "Rewrite"
+    ],
+    "Other Name": "",
+    "Alpha": "",
+    "LocaleName": {
+      "en": "Ramona",
+      "zh": "拉莫纳",
+      "tw": "拉莫納",
+      "jp": "ラモナ",
+      "kr": "라모나"
+    }
+  },
+  {
+    "ID": 3141,
+    "Name": "Paper Heron",
+    "Version": "3.4",
+    "Rarity": 6,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Inspiration",
+      "Support",
+      "Array",
+      "Eureka"
+    ],
+    "Other Name": "鹭鸶剪",
+    "Alpha": "Lùsī Jiǎn",
+    "LocaleName": {
+      "en": "Paper Heron",
+      "zh": "鹭鸶剪",
+      "tw": "鷺鷥剪",
+      "jp": "鷺切",
+      "kr": "노사전"
+    },
+    "anim": [
+      314101
+    ]
+  },
+  {
+    "ID": 3140,
+    "Name": "Cornerstone",
+    "Version": "3.8",
+    "Rarity": 6,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Riposte"
+    ],
+    "Other Name": [
+      "Stasia"
+    ],
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Cornerstone",
+      "zh": "奠基石",
+      "tw": "奠基石",
+      "jp": "コーナーストーン",
+      "kr": "코너스톤"
+    }
+  },
+  {
+    "ID": 3139,
+    "Name": "Lorentz Butterfly",
+    "Version": "3.5",
+    "Rarity": 6,
+    "Afflatus": "Intelligence",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "Support",
+      "Lingering Glow",
+      "DPS",
+      "Rewrite"
+    ],
+    "Other Name": [
+      "Marguerite Martin",
+      "Jones"
+    ],
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Lorentz Butterfly",
+      "zh": "洛伦兹蝴蝶",
+      "tw": "洛倫茲蝴蝶",
+      "jp": "ローレンツバタフライ",
+      "kr": "로렌츠 버터플라이"
+    }
+  },
+  {
+    "ID": 3138,
+    "Name": "Reed",
+    "Version": "3.4",
+    "Rarity": 4,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "Support"
+    ],
+    "Other Name": "芦草结",
+    "LocaleName": {
+      "en": "Reed",
+      "zh": "芦草结",
+      "tw": "蘆草結",
+      "jp": "リードノット",
+      "kr": "노초결"
+    }
+  },
+  {
+    "ID": 3137,
+    "Name": "Cheng Heguang",
+    "Version": "3.4",
+    "Rarity": 6,
+    "Afflatus": "Star",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Male",
+    "Tags": [
+      "Support",
+      "Extra Action",
+      "DPS",
+      "Follow-Up"
+    ],
+    "Other Name": "程和光",
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Cheng Heguang",
+      "zh": "程和光",
+      "tw": "程和光",
+      "jp": "程和光",
+      "kr": "정화광"
+    }
+  },
+  {
+    "ID": 3136,
+    "Name": "<i>Lady by the Lake</i>",
+    "Version": "3.5",
+    "Rarity": 4,
+    "Afflatus": "Plant",
+    "Race": "Awakened",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Support"
+    ],
+    "Other Name": "",
+    "Alpha": null,
+    "LocaleName": {
+      "en": "<i>Lady by the Lake</i>",
+      "zh": "《湖边的女人》",
+      "tw": "《湖邊的女人》",
+      "jp": "『湖畔の女性』",
+      "kr": "<호숫가의 여인>"
+    }
+  },
+  {
+    "ID": 3135,
+    "Name": "Brume",
+    "Version": "3.2",
+    "Rarity": 6,
+    "Afflatus": "Beast",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Dynamo",
+      "Support",
+      "Channel",
+      "Array"
+    ],
+    "Other Name": "Adèle Tavernier",
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Brume",
+      "zh": "灰调蓝",
+      "tw": "灰調藍",
+      "jp": "グレイッシュブルー",
+      "kr": "브룸"
+    }
+  },
+  {
+    "ID": 3134,
+    "Name": "Beryl",
+    "Version": "3.2",
+    "Rarity": 6,
+    "Afflatus": "Intelligence",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Lingering Glow",
+      "Extra Action",
+      "Rank Up"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Lingering Glow"
+        ]
+      }
+    ],
+    "Other Name": "Beryl Bouanich",
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Beryl",
+      "zh": "贝丽尔",
+      "tw": "貝麗爾",
+      "jp": "ベリル",
+      "kr": "베릴"
+    },
+    "anim": [
+      313401
+    ]
+  },
+  {
+    "ID": 3132,
+    "Name": "Corvus",
+    "Version": "3.1",
+    "Rarity": 6,
+    "Afflatus": "Intelligence",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Dynamo",
+      "Channel",
+      "Array"
+    ],
+    "Other Name": "Иглика",
+    "Alpha": "Iglika",
+    "LocaleName": {
+      "en": "Corvus",
+      "zh": "告死鸟",
+      "tw": "告死鳥",
+      "jp": "コルヴス",
+      "kr": "코르부스"
+    }
+  },
+  {
+    "ID": 3128,
+    "Name": "Charon",
+    "Version": "3.0",
+    "Rarity": 6,
+    "Afflatus": "Spirit",
+    "Race": "Awakened",
+    "DMG Type": "Mental",
+    "Gender": "Male",
+    "Tags": [
+      "Support",
+      "Dynamo",
+      "DPS",
+      "Channel",
+      "Array"
+    ],
+    "Other Name": "Paul Haumann",
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Charon",
+      "zh": "卡戎",
+      "tw": "卡戎",
+      "jp": "カローン",
+      "kr": "카론"
+    }
+  },
+  {
+    "ID": 3127,
+    "Name": "Marsha",
+    "Version": "3.3",
+    "Rarity": 6,
+    "Afflatus": "Beast",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "Shield",
+      "Lingering Glow",
+      "Support",
+      "Purify"
+    ],
+    "Other Name": "Marsha Rosenhart",
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Marsha",
+      "zh": "玛尔纱",
+      "tw": "瑪爾紗",
+      "jp": "マルシャ",
+      "kr": "마샤"
+    }
+  },
+  {
+    "ID": 3126,
+    "Name": "Sentinel",
+    "Version": "3.0",
+    "Rarity": 6,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "Support",
+      "Bloodtithe",
+      "DPS",
+      "Bullet"
+    ],
+    "Other Name": "Marianne de Ténébrun",
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Sentinel",
+      "zh": "玛丽安娜",
+      "tw": "瑪麗安娜",
+      "jp": "センティネル",
+      "kr": "센티널"
+    }
+  },
+  {
+    "ID": 3125,
+    "Name": "Rubuska",
+    "Version": "3.1",
+    "Rarity": 6,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "Heal",
+      "Bloodtithe",
+      "Support"
+    ],
+    "Other Name": "Рубуска",
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Rubuska",
+      "zh": "野树莓",
+      "tw": "野樹莓",
+      "jp": "ルブシカ",
+      "kr": "루부스카"
+    }
+  },
+  {
+    "ID": 3124,
+    "Name": "Kassandra",
+    "Version": "s01",
+    "Rarity": 6,
+    "Afflatus": "Mineral",
+    "Race": "Human",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Extra Action",
+      "Ritual",
+      "Support",
+      "Assassination"
+    ],
+    "Other Name": "Κασσανδρα",
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Kassandra",
+      "zh": "卡珊德拉",
+      "tw": "卡珊卓",
+      "jp": "カサンドラ",
+      "kr": "카산드라"
+    }
+  },
+  {
+    "ID": 3123,
+    "Name": "Ezio Auditore",
+    "Version": "s01",
+    "Rarity": 6,
+    "Afflatus": "Star",
+    "Race": "Human",
+    "DMG Type": "Reality",
+    "Gender": "Male",
+    "Tags": [
+      "DPS",
+      "Poison",
+      "Ritual",
+      "Extra Action",
+      "Assassination"
+    ],
+    "Other Name": "Ezio Auditore da Firenze",
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Ezio Auditore",
+      "zh": "艾吉奥·奥迪托雷",
+      "tw": "埃齊歐·奧迪托雷",
+      "jp": "エツィオ",
+      "kr": "에지오 아디토레"
+    }
+  },
+  {
+    "ID": 3122,
+    "Name": "Alexios",
+    "Version": "s01",
+    "Rarity": 5,
+    "Afflatus": "Beast",
+    "Race": "Human",
+    "DMG Type": "Reality",
+    "Gender": "Male",
+    "Tags": [
+      "DPS",
+      "Ritual",
+      "Assassination"
+    ],
+    "Other Name": "Αλεξιος",
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Alexios",
+      "zh": "阿利克西欧斯",
+      "tw": "亞歷克西歐斯",
+      "jp": "アレクシオス",
+      "kr": "알렉시오스"
+    }
+  },
+  {
+    "ID": 3121,
+    "Name": "Moldir",
+    "Version": "2.8",
+    "Rarity": 6,
+    "Afflatus": "Beast",
+    "Race": "Mixed",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "Support",
+      "Ritual",
+      "DPS",
+      "Riposte"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Ritual",
+          "Support"
+        ]
+      }
+    ],
+    "Other Name": "Мөлдір Ерасыловна Уланова",
+    "Short Name": "Мөлдір Уланова",
+    "Alpha": "Moldir Erasylovna Ulanova",
+    "LocaleName": {
+      "en": "Moldir",
+      "zh": "莫莉德尔",
+      "tw": "莫莉德爾",
+      "jp": "モルダー",
+      "kr": "몰디르"
+    }
+  },
+  {
+    "ID": 3120,
+    "Name": "Nautika",
+    "Version": "2.8",
+    "Rarity": 6,
+    "Afflatus": "Spirit",
+    "Race": "Infected",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Bloodtithe",
+      "Channel"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Bloodtithe"
+        ]
+      }
+    ],
+    "Other Name": "Nautika Amundsen",
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Nautika",
+      "zh": "诺谛卡",
+      "tw": "諾諦卡",
+      "jp": "ノーティカ",
+      "kr": "노티카"
+    },
+    "anim": [
+      312001
+    ]
+  },
+  {
+    "ID": 3118,
+    "Name": "Name Day",
+    "Version": "2.7",
+    "Rarity": 5,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Male",
+    "Tags": [
+      "Support",
+      "Ritual",
+      "Dispel"
+    ],
+    "Other Name": "именины",
+    "Alpha": "Leonid",
+    "Other2": "Леонид",
+    "LocaleName": {
+      "en": "Name Day",
+      "zh": "命名日",
+      "tw": "命名日",
+      "jp": "ネイムデー",
+      "kr": "네임데이"
+    }
+  },
+  {
+    "ID": 3117,
+    "Name": "Kiperina",
+    "Version": "2.7",
+    "Rarity": 6,
+    "Afflatus": "Star",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "Shield",
+      "Inspiration",
+      "Support",
+      "Eureka"
+    ],
+    "Other Name": "Алина Медведева",
+    "Alpha": "Alina Medvedeva",
+    "LocaleName": {
+      "en": "Kiperina",
+      "zh": "库珀花环",
+      "tw": "庫珀花環",
+      "jp": "カイパリーナ",
+      "kr": "키페리나"
+    }
+  },
+  {
+    "ID": 3116,
+    "Name": "Hissabeth",
+    "Version": "2.7",
+    "Rarity": 6,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Ritual",
+      "Control"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Ritual"
+        ]
+      }
+    ],
+    "Other Name": "Sylvie",
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Hissabeth",
+      "zh": "冷周六",
+      "tw": "冷週六",
+      "jp": "サーベス",
+      "kr": "히사베스"
+    }
+  },
+  {
+    "ID": 3115,
+    "Name": "Buddy Fairchild",
+    "Version": "2.8",
+    "Rarity": 5,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Male",
+    "Tags": [
+      "DPS",
+      "Ritual"
+    ],
+    "Other Name": "",
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Buddy Fairchild",
+      "zh": "嚼嚼松果",
+      "tw": "嚼嚼松果",
+      "jp": "もぐナッツ",
+      "kr": "버디 페어차일드"
+    }
+  },
+  {
+    "ID": 3114,
+    "Name": "Recoleta",
+    "Version": "2.6",
+    "Rarity": 6,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Ritual",
+      "Support"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Ritual"
+        ]
+      }
+    ],
+    "Other Name": "Ficciones",
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Recoleta",
+      "zh": "虚构集",
+      "tw": "虛構集",
+      "jp": "レコレータ",
+      "kr": "레콜레타"
+    }
+  },
+  {
+    "ID": 3113,
+    "Name": "Aleph",
+    "Version": "2.6",
+    "Rarity": 6,
+    "Afflatus": "Intelligence",
+    "Race": "Human",
+    "DMG Type": "Mental",
+    "Gender": "Male",
+    "Tags": [
+      "Support",
+      "Inspiration",
+      "Channel",
+      "Eureka"
+    ],
+    "Other Name": [
+      "א",
+      "Idealist",
+      "Merlin",
+      "Zahir",
+      "Paracelsus",
+      "Physician"
+    ],
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Aleph",
+      "zh": "阿莱夫",
+      "tw": "阿萊夫",
+      "jp": "エル・アレフ",
+      "kr": "알레프"
+    }
+  },
+  {
+    "ID": 3112,
+    "Name": "Loggerhead",
+    "Version": "2.5",
+    "Rarity": 5,
+    "Afflatus": "Plant",
+    "Race": "Awakened",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "Heal"
+    ],
+    "Other Name": "Latham",
+    "LocaleName": {
+      "en": "Loggerhead",
+      "zh": "空脑袋",
+      "tw": "空腦袋",
+      "jp": "ロガーヘッド",
+      "kr": "로거헤드"
+    }
+  },
+  {
+    "ID": 3111,
+    "Name": "Noire",
+    "Version": "2.5",
+    "Rarity": 6,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Ritual",
+      "Control"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Ritual",
+          "Neg Status"
+        ]
+      }
+    ],
+    "Other Name": "菲林士多",
+    "Alpha": "Fei Lam Si Do",
+    "LocaleName": {
+      "en": "Noire",
+      "zh": "菲林士多",
+      "tw": "菲林士多",
+      "jp": "ノワール",
+      "kr": "누아르"
+    }
+  },
+  {
+    "ID": 3110,
+    "Name": "Liang Yue",
+    "Version": "2.5",
+    "Rarity": 6,
+    "Afflatus": "Star",
+    "Race": "Mixed",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Extra Action",
+      "Immunity"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Extra Action"
+        ]
+      }
+    ],
+    "Other Name": "梁月",
+    "LocaleName": {
+      "en": "Liang Yue",
+      "zh": "梁月",
+      "tw": "梁月",
+      "jp": "梁月",
+      "kr": "양월"
+    },
+    "anim": [
+      311001
+    ]
+  },
+  {
+    "ID": 3109,
+    "Name": "Fatutu",
+    "Version": "2.4",
+    "Rarity": 6,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "Heal",
+      "Extra Action",
+      "Purify"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Fatutu",
+      "zh": "图图石子",
+      "tw": "圖圖石子",
+      "jp": "トゥトゥイ",
+      "kr": "파투투"
+    }
+  },
+  {
+    "ID": 3108,
+    "Name": "Barcarola",
+    "Version": "2.4",
+    "Rarity": 6,
+    "Afflatus": "Star",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Inspiration",
+      "Support",
+      "Eureka"
+    ],
+    "Other Name": "Barcarola Stradivari",
+    "LocaleName": {
+      "en": "Barcarola",
+      "zh": "芭卡洛儿",
+      "tw": "芭卡洛兒",
+      "jp": "バルカローラ",
+      "kr": "바르카롤라"
+    }
+  },
+  {
+    "ID": 3107,
+    "Name": "Ulrich",
+    "Version": "2.8",
+    "Rarity": 6,
+    "Afflatus": "Intelligence",
+    "Race": "Awakened",
+    "DMG Type": "Reality",
+    "Gender": "Male",
+    "Tags": [
+      "DPS",
+      "Dynamo",
+      "Support",
+      "Channel",
+      "Array"
+    ],
+    "Other Name": "",
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Ulrich",
+      "zh": "乌尔里希",
+      "tw": "烏爾里希",
+      "jp": "ウルリッヒ",
+      "kr": "울리히"
+    }
+  },
+  {
+    "ID": 3106,
+    "Name": "Brimley",
+    "Version": "2.3",
+    "Rarity": 5,
+    "Afflatus": "Mineral",
+    "Race": "Awakened",
+    "DMG Type": "Mental",
+    "Gender": "Genderless",
+    "Tags": [
+      "Support",
+      "Extra Action",
+      "Purify"
+    ],
+    "Other Name": "Slouch Hat",
+    "LocaleName": {
+      "en": "Brimley",
+      "zh": "宽檐帽",
+      "tw": "寬簷帽",
+      "jp": "つば広ハット",
+      "kr": "슬라우치 햇"
+    }
+  },
+  {
+    "ID": 3105,
+    "Name": "Flutterpage",
+    "Version": "2.3",
+    "Rarity": 6,
+    "Afflatus": "Star",
+    "Race": "Mixed",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "Support",
+      "Extra Action",
+      "DPS",
+      "Channel",
+      "Eureka"
+    ],
+    "Other Name": "Liberti Grove",
+    "LocaleName": {
+      "en": "Flutterpage",
+      "zh": "纸信圈儿",
+      "tw": "紙信圈兒",
+      "jp": "パタパタペーパー",
+      "kr": "플러터 페이지"
+    }
+  },
+  {
+    "ID": 3104,
+    "Name": "Willow",
+    "Version": "2.3",
+    "Rarity": 6,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Poison",
+      "Channel"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Poison"
+        ]
+      }
+    ],
+    "Other Name": "Charlotte O'Hagan",
+    "LocaleName": {
+      "en": "Willow",
+      "zh": "笃笃骨",
+      "tw": "篤篤骨",
+      "jp": "ヴィロー",
+      "kr": "윌로우"
+    }
+  },
+  {
+    "ID": 3103,
+    "Name": "Mr. Duncan",
+    "Version": "2.2",
+    "Rarity": 5,
+    "Afflatus": "Beast",
+    "Race": "Human",
+    "DMG Type": "Reality",
+    "Gender": "Male",
+    "Tags": [
+      "DPS",
+      "Riposte",
+      "Bullet"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Mr. Duncan",
+      "zh": "邓肯先生",
+      "tw": "鄧肯先生",
+      "jp": "ダンカン",
+      "kr": "던컨"
+    }
+  },
+  {
+    "ID": 3102,
+    "Name": "Lopera",
+    "Version": "2.2",
+    "Rarity": 6,
+    "Afflatus": "Beast",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "Support",
+      "Burn",
+      "Channel",
+      "Bullet",
+      "Array"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Bullet"
+        ]
+      }
+    ],
+    "Other Name": "Carlotta Lopez Rivera",
+    "LocaleName": {
+      "en": "Lopera",
+      "zh": "洛佩拉",
+      "tw": "洛佩拉",
+      "jp": "ロペラ",
+      "kr": "로페라"
+    }
+  },
+  {
+    "ID": 3101,
+    "Name": "White Rum",
+    "Version": "2.2",
+    "Rarity": 4,
+    "Afflatus": "Intelligence",
+    "Race": "Awakened",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Shift",
+      "Control",
+      "Channel"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "White Rum",
+      "zh": "白朗姆",
+      "tw": "白朗姆",
+      "jp": "ホワイトラム",
+      "kr": "화이트 럼"
+    }
+  },
+  {
+    "ID": 3100,
+    "Name": "Anjo Nala",
+    "Version": "2.2",
+    "Rarity": 6,
+    "Afflatus": "Beast",
+    "Race": "Beyond",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Extra Action",
+      "Ritual",
+      "Control",
+      "Channel"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Extra Action"
+        ]
+      }
+    ],
+    "Other Name": "Nala Hari",
+    "LocaleName": {
+      "en": "Anjo Nala",
+      "zh": "天使娜娜",
+      "tw": "天使娜娜",
+      "jp": "アンジョナナ",
+      "kr": "안조 날라"
+    },
+    "anim": [
+      310001
+    ]
+  },
+  {
+    "ID": 3099,
+    "Name": "Barbara",
+    "Version": "2.1",
+    "Rarity": 5,
+    "Afflatus": "Spirit",
+    "Race": "Mixed",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "Shield",
+      "Support"
+    ],
+    "Other Name": "Dolly",
+    "LocaleName": {
+      "en": "Barbara",
+      "zh": "数羊羔",
+      "tw": "數羊羔",
+      "jp": "メェプル",
+      "kr": "바바라"
+    }
+  },
+  {
+    "ID": 3098,
+    "Name": "Tuesday",
+    "Version": "2.1",
+    "Rarity": 6,
+    "Afflatus": "Spirit",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Poison",
+      "Support",
+      "Array"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Poison"
+        ]
+      }
+    ],
+    "Other Name": "Christine",
+    "LocaleName": {
+      "en": "Tuesday",
+      "zh": "蓝手帕",
+      "tw": "藍手帕",
+      "jp": "チューズデー",
+      "kr": "튜즈데이"
+    }
+  },
+  {
+    "ID": 3097,
+    "Name": "Argus",
+    "Version": "2.1",
+    "Rarity": 6,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Rank Up",
+      "Support",
+      "Dispel"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Rank Up"
+        ]
+      }
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Argus",
+      "zh": "阿尔古斯",
+      "tw": "阿爾古斯",
+      "jp": "アルゴス",
+      "kr": "아르고스"
+    }
+  },
+  {
+    "ID": 3096,
+    "Name": "Pioneer",
+    "Version": "2.0",
+    "Rarity": 3,
+    "Afflatus": "Spirit",
+    "Race": "Awakened",
+    "DMG Type": "Mental",
+    "Gender": "Male",
+    "Tags": [
+      "Shield",
+      "Shift",
+      "Support"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Pioneer",
+      "zh": "先驱者",
+      "tw": "先驅者",
+      "jp": "パイオニア",
+      "kr": "파이오니어"
+    }
+  },
+  {
+    "ID": 3095,
+    "Name": "Mercuria",
+    "Version": "2.0",
+    "Rarity": 6,
+    "Afflatus": "Spirit",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "Support",
+      "Rank Up",
+      "DPS"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Rank Up"
+        ]
+      }
+    ],
+    "Other Name": "Sara",
+    "LocaleName": {
+      "en": "Mercuria",
+      "zh": "环状水星",
+      "tw": "環狀水星",
+      "jp": "マーキュリア",
+      "kr": "머큐리아"
+    }
+  },
+  {
+    "ID": 3094,
+    "Name": "J",
+    "Version": "2.0",
+    "Rarity": 6,
+    "Afflatus": "Beast",
+    "Race": "Mixed",
+    "DMG Type": "Reality",
+    "Gender": "Male",
+    "Tags": [
+      "Shield",
+      "Burn",
+      "Support",
+      "Riposte"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Riposte"
+        ]
+      }
+    ],
+    "Other Name": "Joe Brown",
+    "LocaleName": {
+      "en": "J",
+      "zh": "J",
+      "tw": "J",
+      "jp": "J",
+      "kr": "J"
+    }
+  },
+  {
+    "ID": 3092,
+    "Name": "Igor",
+    "Version": "3.3",
+    "Rarity": 6,
+    "Afflatus": "Beast",
+    "Race": "Mixed",
+    "DMG Type": "Reality",
+    "Gender": "Male",
+    "Tags": [
+      "DPS",
+      "Extra Action",
+      "Ritual",
+      "Bullet"
+    ],
+    "Other Name": "Игорь",
+    "Alpha": null,
+    "LocaleName": {
+      "en": "Igor",
+      "zh": "伊戈尔",
+      "tw": "伊戈爾",
+      "jp": "イゴール",
+      "kr": "이고르"
+    }
+  },
+  {
+    "ID": 3091,
+    "Name": "Lorelei",
+    "Version": "1.9",
+    "Rarity": 5,
+    "Afflatus": "Star",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "Support",
+      "DPS"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Lorelei",
+      "zh": "罗蕾莱",
+      "tw": "羅蕾萊",
+      "jp": "ローレライ",
+      "kr": "로렐라이"
+    }
+  },
+  {
+    "ID": 3088,
+    "Name": "Semmelweis",
+    "Version": "1.9",
+    "Rarity": 6,
+    "Afflatus": "Mineral",
+    "Race": "Infected",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "HP Sacrifice",
+      "Support",
+      "Array"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Bloodtithe"
+        ]
+      }
+    ],
+    "Other Name": "Bella",
+    "LocaleName": {
+      "en": "Semmelweis",
+      "zh": "塞梅尔维斯",
+      "tw": "塞梅爾維斯",
+      "jp": "センメルワイス",
+      "kr": "제멜바이스"
+    }
+  },
+  {
+    "ID": 3087,
+    "Name": "Vila",
+    "Version": "1.8",
+    "Rarity": 6,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "Heal",
+      "Rank Up",
+      "Support",
+      "Purify"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Rank Up"
+        ]
+      }
+    ],
+    "Other Name": "Вила",
+    "LocaleName": {
+      "en": "Vila",
+      "zh": "维拉",
+      "tw": "維拉",
+      "jp": "ヴィラ",
+      "kr": "빌라"
+    }
+  },
+  {
+    "ID": 3086,
+    "Name": "Lucy",
+    "Version": "1.9",
+    "Rarity": 6,
+    "Afflatus": "Intelligence",
+    "Race": "Awakened",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Dynamo"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Dynamo"
+        ]
+      }
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Lucy",
+      "zh": "露西",
+      "tw": "露西",
+      "jp": "ルーシー",
+      "kr": "루시"
+    },
+    "anim": [
+      308601
+    ]
+  },
+  {
+    "ID": 3084,
+    "Name": "Getian",
+    "Version": "1.6",
+    "Rarity": 6,
+    "Afflatus": "Beast",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Male",
+    "Tags": [
+      "Support",
+      "Channel",
+      "Eureka",
+      "Array"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Ritual"
+        ]
+      }
+    ],
+    "Other Name": "葛天",
+    "LocaleName": {
+      "en": "Getian",
+      "zh": "葛天",
+      "tw": "葛天",
+      "jp": "葛天",
+      "kr": "갈천"
+    }
+  },
+  {
+    "ID": 3083,
+    "Name": "Jiu Niangzi",
+    "Version": "1.6",
+    "Rarity": 6,
+    "Afflatus": "Mineral",
+    "Race": "Mixed",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Extra Action",
+      "Channel"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Extra Action"
+        ]
+      }
+    ],
+    "Other Name": "曲娘",
+    "LocaleName": {
+      "en": "Jiu Niangzi",
+      "zh": "曲娘",
+      "tw": "曲娘",
+      "jp": "曲娘",
+      "kr": "곡랑"
+    },
+    "anim": [
+      308301
+    ]
+  },
+  {
+    "ID": 3082,
+    "Name": "Yenisei",
+    "Version": "1.6",
+    "Rarity": 5,
+    "Afflatus": "Star",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "Heal",
+      "Immunity"
+    ],
+    "Other Name": "Енисей",
+    "LocaleName": {
+      "en": "Yenisei",
+      "zh": "小叶尼塞",
+      "tw": "小葉尼塞",
+      "jp": "エニセイ",
+      "kr": "예니세이"
+    }
+  },
+  {
+    "ID": 3081,
+    "Name": "Isolde",
+    "Version": "1.7",
+    "Rarity": 6,
+    "Afflatus": "Spirit",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Burn",
+      "Support"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Lingering Glow"
+        ]
+      }
+    ],
+    "Other Name": "Isolde von Dittarsdorf",
+    "LocaleName": {
+      "en": "Isolde",
+      "zh": "伊索尔德",
+      "tw": "伊索爾德",
+      "jp": "イゾルデ",
+      "kr": "이졸데"
+    }
+  },
+  {
+    "ID": 3080,
+    "Name": "Kakania",
+    "Version": "1.9",
+    "Rarity": 6,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "Heal",
+      "Support"
+    ],
+    "Other Name": "Klara Vingler",
+    "LocaleName": {
+      "en": "Kakania",
+      "zh": "卡卡尼亚",
+      "tw": "卡卡尼亞",
+      "jp": "カカニア",
+      "kr": "카카니아"
+    }
+  },
+  {
+    "ID": 3079,
+    "Name": 6,
+    "Version": "1.4",
+    "Rarity": 6,
+    "Afflatus": "Intelligence",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Male",
+    "Tags": [
+      "Support",
+      "DPS",
+      "Purify",
+      "Eureka"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Debuff"
+        ]
+      }
+    ],
+    "Other Name": "Atticus",
+    "Alpha": "Six",
+    "LocaleName": {
+      "en": 6,
+      "zh": 6,
+      "tw": 6,
+      "jp": 6,
+      "kr": 6
+    }
+  },
+  {
+    "ID": 3078,
+    "Name": "Avgust",
+    "Version": "1.8",
+    "Rarity": 5,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Male",
+    "Tags": [
+      "Heal",
+      "Support",
+      "Dispel"
+    ],
+    "Other Name": "Авксивий",
+    "LocaleName": {
+      "en": "Avgust",
+      "zh": "阿夫西维",
+      "tw": "阿夫西維",
+      "jp": "アヴグスト",
+      "kr": "아브구스트"
+    }
+  },
+  {
+    "ID": 3077,
+    "Name": "Windsong",
+    "Version": "1.8",
+    "Rarity": 6,
+    "Afflatus": "Star",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Extra Action",
+      "Eureka"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Extra Action",
+          "Eureka"
+        ]
+      }
+    ],
+    "Other Name": "Екатерина",
+    "LocaleName": {
+      "en": "Windsong",
+      "zh": "北方哨歌",
+      "tw": "北方哨歌",
+      "jp": "スヴィスティ",
+      "kr": "윈드송"
+    }
+  },
+  {
+    "ID": 3076,
+    "Name": "Ulu",
+    "Version": "1.5",
+    "Rarity": 5,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Burn",
+      "Support"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Ulu",
+      "zh": "和平乌鲁",
+      "tw": "和平烏魯",
+      "jp": "ウル",
+      "kr": "울루"
+    }
+  },
+  {
+    "ID": 3075,
+    "Name": "Desert Flannel",
+    "Version": "1.5",
+    "Rarity": 5,
+    "Afflatus": "Beast",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "Support",
+      "DPS"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Desert Flannel",
+      "zh": "沙丝绒",
+      "tw": "沙絲絨",
+      "jp": "サンド・フランネル",
+      "kr": "데저트 플란넬"
+    }
+  },
+  {
+    "ID": 3074,
+    "Name": "Ezra Theodore",
+    "Version": "1.5",
+    "Rarity": 6,
+    "Afflatus": "Star",
+    "Race": "Human",
+    "DMG Type": "Mental",
+    "Gender": "Male",
+    "Tags": [
+      "Shield",
+      "Support",
+      "Eureka"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Dynamo"
+        ]
+      },
+      {
+        "tags": [
+          "Bloodtithe"
+        ]
+      }
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Ezra",
+      "zh": "爱兹拉",
+      "tw": "愛茲拉",
+      "jp": "エズラ",
+      "kr": "에즈라"
+    }
+  },
+  {
+    "ID": 3073,
+    "Name": "Spathodea",
+    "Version": "1.5",
+    "Rarity": 6,
+    "Afflatus": "Beast",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Burn"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Lingering Glow"
+        ]
+      }
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Spathodea",
+      "zh": "可燃点",
+      "tw": "可燃點",
+      "jp": "カエンボク",
+      "kr": "스파토데아"
+    }
+  },
+  {
+    "ID": 3072,
+    "Name": "Shamane",
+    "Version": "1.3",
+    "Rarity": 6,
+    "Afflatus": "Beast",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Male",
+    "Tags": [
+      "DPS",
+      "Ritual",
+      "Support"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Ritual"
+        ]
+      }
+    ],
+    "Other Name": "Pushya Sharma",
+    "LocaleName": {
+      "en": "Shamane",
+      "zh": "鬃毛沙砾",
+      "tw": "鬃毛沙礫",
+      "jp": "シャーマィン",
+      "kr": "갈기 모래"
+    }
+  },
+  {
+    "ID": 3071,
+    "Name": "Kanjira",
+    "Version": "1.3",
+    "Rarity": 5,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Poison",
+      "Support"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Kanjira",
+      "zh": "坎吉拉",
+      "tw": "坎吉拉",
+      "jp": "カンジーラ",
+      "kr": "칸지라"
+    }
+  },
+  {
+    "ID": 3070,
+    "Name": "Kaalaa Baunaa",
+    "Version": "1.3",
+    "Rarity": 6,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Follow-Up"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Extra Action"
+        ]
+      }
+    ],
+    "Other Name": "Black Dwarf",
+    "LocaleName": {
+      "en": "Kaalaa Baunaa",
+      "zh": "伽菈波那",
+      "tw": "伽菈波那",
+      "jp": "カーラ・ボナー",
+      "kr": "갈라보나"
+    }
+  },
+  {
+    "ID": 3066,
+    "Name": 37,
+    "Version": "1.4",
+    "Rarity": 6,
+    "Afflatus": "Star",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Extra Action",
+      "Support",
+      "Follow-Up",
+      "Eureka"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Pursuit"
+        ]
+      }
+    ],
+    "Other Name": "",
+    "Alpha": "Thirty-Seven",
+    "LocaleName": {
+      "en": 37,
+      "zh": 37,
+      "tw": 37,
+      "jp": 37,
+      "kr": 37
+    }
+  },
+  {
+    "ID": 3065,
+    "Name": "Marcus",
+    "Version": "1.7",
+    "Rarity": 6,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Rank Up",
+      "Eureka"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Rank Up"
+        ]
+      }
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Marcus",
+      "zh": "马库斯",
+      "tw": "馬庫斯",
+      "jp": "マーカス",
+      "kr": "마커스"
+    }
+  },
+  {
+    "ID": 3064,
+    "Name": "Diggers",
+    "Version": "1.1",
+    "Rarity": 5,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Male",
+    "Tags": [
+      "DPS",
+      "Control"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Diggers",
+      "zh": "挖掘艺术",
+      "tw": "挖掘藝術",
+      "jp": "ディガー",
+      "kr": "디거스"
+    }
+  },
+  {
+    "ID": 3063,
+    "Name": "Pickles",
+    "Version": "1.1",
+    "Rarity": 6,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Male",
+    "Tags": [
+      "DPS",
+      "Dispel"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Extra Action"
+        ]
+      }
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Pickles",
+      "zh": "皮克勒斯",
+      "tw": "皮克勒斯",
+      "jp": "ピクルス",
+      "kr": "피클즈"
+    }
+  },
+  {
+    "ID": 3062,
+    "Name": "Melania",
+    "Version": "1.1",
+    "Rarity": 6,
+    "Afflatus": "Beast",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Ritual"
+        ]
+      }
+    ],
+    "Other Name": "Melania Ramirez",
+    "LocaleName": {
+      "en": "Melania",
+      "zh": "梅兰妮",
+      "tw": "梅蘭妮",
+      "jp": "メラニア",
+      "kr": "멜라니아"
+    }
+  },
+  {
+    "ID": 3061,
+    "Name": "Horropedia",
+    "Version": "1.2",
+    "Rarity": 5,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Male",
+    "Tags": [
+      "DPS",
+      "Support",
+      "Dispel"
+    ],
+    "Other Name": "Joshua",
+    "LocaleName": {
+      "en": "Horropedia",
+      "zh": "恐怖通",
+      "tw": "恐怖通",
+      "jp": "ホラーペディア",
+      "kr": "호러피디아"
+    }
+  },
+  {
+    "ID": 3060,
+    "Name": "Blonney",
+    "Version": "1.2",
+    "Rarity": 5,
+    "Afflatus": "Star",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Support"
+    ],
+    "Other Name": "Jennifer Woods",
+    "LocaleName": {
+      "en": "Blonney",
+      "zh": "金蜜儿",
+      "tw": "金蜜兒",
+      "jp": "ジェイミー",
+      "kr": "블로니"
+    }
+  },
+  {
+    "ID": 3059,
+    "Name": "Door",
+    "Version": "1.0",
+    "Rarity": 2,
+    "Afflatus": "Intelligence",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Male",
+    "Tags": [
+      "DPS",
+      "Support"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Door",
+      "zh": "门",
+      "tw": "門",
+      "jp": "ドア",
+      "kr": "문"
+    }
+  },
+  {
+    "ID": 3058,
+    "Name": "Erick",
+    "Version": "1.0",
+    "Rarity": 4,
+    "Afflatus": "Star",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Dispel"
+    ],
+    "Other Name": "Erick Anderson",
+    "LocaleName": {
+      "en": "Erick",
+      "zh": "埃里克",
+      "tw": "埃里克",
+      "jp": "エリック",
+      "kr": "에릭"
+    }
+  },
+  {
+    "ID": 3057,
+    "Name": "Mesmer Jr.",
+    "Version": "1.0",
+    "Rarity": 4,
+    "Afflatus": "Intelligence",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Control"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Mesmer Jr.",
+      "zh": "小梅斯梅尔",
+      "tw": "小梅斯梅爾",
+      "jp": "メスメル・Jr.",
+      "kr": "메스머 주니어"
+    }
+  },
+  {
+    "ID": 3056,
+    "Name": "Jessica",
+    "Version": "1.2",
+    "Rarity": 6,
+    "Afflatus": "Plant",
+    "Race": "Beyond",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Poison"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Poison"
+        ]
+      },
+      {
+        "tags": [
+          "Poison"
+        ]
+      }
+    ],
+    "Other Name": "Changeling",
+    "LocaleName": {
+      "en": "Jessica",
+      "zh": "洁西卡",
+      "tw": "潔西卡",
+      "jp": "ジェシカ",
+      "kr": "제시카"
+    }
+  },
+  {
+    "ID": 3055,
+    "Name": "Sputnik",
+    "Version": "1.0",
+    "Rarity": 3,
+    "Afflatus": "Star",
+    "Race": "Awakened",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Control"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Sputnik",
+      "zh": "斯普特尼克",
+      "tw": "斯普特尼克",
+      "jp": "スプートニク",
+      "kr": "스푸트니크"
+    }
+  },
+  {
+    "ID": 3054,
+    "Name": "ONiON",
+    "Version": "1.0",
+    "Rarity": 3,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "ONiON",
+      "zh": "洋葱头",
+      "tw": "洋蔥頭",
+      "jp": "オニオン",
+      "kr": "어니언"
+    }
+  },
+  {
+    "ID": 3053,
+    "Name": "Tooth Fairy",
+    "Version": "1.2",
+    "Rarity": 6,
+    "Afflatus": "Star",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "Heal",
+      "Support",
+      "Purify"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Inspiration"
+        ]
+      }
+    ],
+    "Other Name": "Dr. Campbell",
+    "LocaleName": {
+      "en": "Tooth Fairy",
+      "zh": "牙仙",
+      "tw": "牙仙",
+      "jp": "トゥースフェアリー",
+      "kr": "투스 페어리"
+    }
+  },
+  {
+    "ID": 3052,
+    "Name": "Ms. Newbabel",
+    "Version": "1.0",
+    "Rarity": 6,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "Shield",
+      "Riposte"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Riposte",
+          "Shield"
+        ]
+      }
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Ms. NewBabel",
+      "zh": "新巴别塔",
+      "tw": "新巴別塔",
+      "jp": "ニューバベル",
+      "kr": "뉴바벨"
+    }
+  },
+  {
+    "ID": 3051,
+    "Name": "Eternity",
+    "Version": "1.0",
+    "Rarity": 6,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Support",
+          "Genesis DMG"
+        ]
+      },
+      {
+        "tags": [
+          "Bloodtithe",
+          "Ritual"
+        ]
+      }
+    ],
+    "Other Name": "Winnifred",
+    "LocaleName": {
+      "en": "Eternity",
+      "zh": "温妮弗雷德",
+      "tw": "溫妮弗雷德",
+      "jp": "エターニティ",
+      "kr": "이터니티"
+    }
+  },
+  {
+    "ID": 3050,
+    "Name": "Darley Clatter",
+    "Version": "1.0",
+    "Rarity": 3,
+    "Afflatus": "Beast",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Male",
+    "Tags": [
+      "Support"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Darley Clatter",
+      "zh": "哒哒达利",
+      "tw": "噠噠達利",
+      "jp": "ダーレータッタ",
+      "kr": "다그닥 달리"
+    }
+  },
+  {
+    "ID": 3049,
+    "Name": "Click",
+    "Version": "1.0",
+    "Rarity": 5,
+    "Afflatus": "Spirit",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Male",
+    "Tags": [
+      "DPS"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Click",
+      "zh": "喀嚓喀嚓",
+      "tw": "喀嚓喀嚓",
+      "jp": "カシャパシャ",
+      "kr": "클릭"
+    }
+  },
+  {
+    "ID": 3048,
+    "Name": "Voyager",
+    "Version": "1.0",
+    "Rarity": 6,
+    "Afflatus": "Star",
+    "Race": "Beyond",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "Support",
+      "DPS",
+      "Control"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Inspiration"
+        ]
+      }
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Voyager",
+      "zh": "远旅",
+      "tw": "遠旅",
+      "jp": "ボイジャー",
+      "kr": "보이저"
+    }
+  },
+  {
+    "ID": 3047,
+    "Name": "Medicine Pocket",
+    "Version": "1.0",
+    "Rarity": 6,
+    "Afflatus": "Beast",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Genderless",
+    "Tags": [
+      "Heal",
+      "Support",
+      "Control"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Heal",
+          "Support"
+        ]
+      }
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Medicine Pocket",
+      "zh": "兔毛手袋",
+      "tw": "兔毛手袋",
+      "jp": "メディスンポケット",
+      "kr": "메디슨 포켓"
+    }
+  },
+  {
+    "ID": 3046,
+    "Name": "Poltergeist",
+    "Version": "1.0",
+    "Rarity": 4,
+    "Afflatus": "Spirit",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "Support"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Poltergeist",
+      "zh": "吵闹鬼",
+      "tw": "吵鬧鬼",
+      "jp": "ポルターガイスト",
+      "kr": "폴터가이스트"
+    }
+  },
+  {
+    "ID": 3045,
+    "Name": "Bette",
+    "Version": "1.0",
+    "Rarity": 3,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "Shield",
+      "Support"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Bette",
+      "zh": "贝蒂",
+      "tw": "貝蒂",
+      "jp": "ベティ",
+      "kr": "베티"
+    }
+  },
+  {
+    "ID": 3044,
+    "Name": "Ms. Moissan",
+    "Version": "1.0",
+    "Rarity": 4,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "Shield",
+      "Control"
+    ],
+    "Other Name": "Hannah Geier",
+    "LocaleName": {
+      "en": "Ms. Moissan",
+      "zh": "莫桑女士",
+      "tw": "莫桑女士",
+      "jp": "ミス・モアッサン",
+      "kr": "무아상"
+    }
+  },
+  {
+    "ID": 3043,
+    "Name": "Tennant",
+    "Version": "1.0",
+    "Rarity": 5,
+    "Afflatus": "Beast",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "Shield",
+      "Support",
+      "Bullet"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Shield",
+          "Bullet"
+        ]
+      }
+    ],
+    "Other Name": "Ada Tennant",
+    "LocaleName": {
+      "en": "Tennant",
+      "zh": "坦南特",
+      "tw": "坦南特",
+      "jp": "テナント",
+      "kr": "테넌트"
+    }
+  },
+  {
+    "ID": 3042,
+    "Name": "Rabies",
+    "Version": "1.0",
+    "Rarity": 4,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Male",
+    "Tags": [
+      "DPS",
+      "Poison"
+    ],
+    "Other Name": "Adam Miłosz",
+    "LocaleName": {
+      "en": "Rabies",
+      "zh": "爱宠",
+      "tw": "愛寵",
+      "jp": "レイビーズ",
+      "kr": "레이비스"
+    }
+  },
+  {
+    "ID": 3041,
+    "Name": "Matilda",
+    "Version": "1.0",
+    "Rarity": 5,
+    "Afflatus": "Star",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Support"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Inspiration"
+        ]
+      },
+      {
+        "tags": [
+          "Lingering Glow"
+        ]
+      }
+    ],
+    "Other Name": "Matilda Bouanich",
+    "LocaleName": {
+      "en": "Matilda",
+      "zh": "玛蒂尔达",
+      "tw": "瑪蒂爾達",
+      "jp": "マチルダ",
+      "kr": "마틸다"
+    }
+  },
+  {
+    "ID": 3040,
+    "Name": "Twins Sleep",
+    "Version": "1.0",
+    "Rarity": 3,
+    "Afflatus": "Spirit",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "Support",
+      "Control"
+    ],
+    "Other Name": "Lisa & Louise",
+    "LocaleName": {
+      "en": "Twins Sleep",
+      "zh": "丽莎&路易斯",
+      "tw": "麗莎&路易斯",
+      "jp": "リサ＆ルイス",
+      "kr": "리사&루이스"
+    }
+  },
+  {
+    "ID": 3039,
+    "Name": "An-an Lee",
+    "Version": "1.0",
+    "Rarity": 6,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "Support",
+      "DPS",
+      "Control"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Rank Up",
+          "Neg Status"
+        ]
+      },
+      {
+        "tags": [
+          "Inspiration"
+        ]
+      }
+    ],
+    "Other Name": "泥鯭的士",
+    "Alpha": "Nai Maang Dik Si",
+    "LocaleName": {
+      "en": "An-an Lee",
+      "zh": "泥鯭的士",
+      "tw": "泥鯭的士",
+      "jp": "リー・アンアン",
+      "kr": "안안 리"
+    }
+  },
+  {
+    "ID": 3038,
+    "Name": "Satsuki",
+    "Version": "1.0",
+    "Rarity": 5,
+    "Afflatus": "Plant",
+    "Race": "Mixed",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Control"
+    ],
+    "Other Name": "皐月",
+    "LocaleName": {
+      "en": "Satsuki",
+      "zh": "五色月",
+      "tw": "五色月",
+      "jp": "五色月",
+      "kr": "사츠키"
+    }
+  },
+  {
+    "ID": 3037,
+    "Name": "Necrologist",
+    "Version": "1.0",
+    "Rarity": 5,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Dispel"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Necrologist",
+      "zh": "讣告人",
+      "tw": "訃告人",
+      "jp": "ネクロ・ロギスト",
+      "kr": "네크롤로지스트"
+    }
+  },
+  {
+    "ID": 3036,
+    "Name": "John Titor",
+    "Version": "1.0",
+    "Rarity": 3,
+    "Afflatus": "Intelligence",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "Shield",
+      "Purify",
+      "Dispel"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "John Titor",
+      "zh": "约翰·提托",
+      "tw": "約翰·提托",
+      "jp": "ジョン・タイター",
+      "kr": "존 티토"
+    }
+  },
+  {
+    "ID": 3035,
+    "Name": "Leilani",
+    "Version": "1.0",
+    "Rarity": 3,
+    "Afflatus": "Beast",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Support"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Leilani",
+      "zh": "莉拉妮",
+      "tw": "莉拉妮",
+      "jp": "レイラニ",
+      "kr": "레일라니"
+    }
+  },
+  {
+    "ID": 3034,
+    "Name": "aliEn T",
+    "Version": "1.0",
+    "Rarity": 3,
+    "Afflatus": "Star",
+    "Race": "Beyond",
+    "DMG Type": "Reality",
+    "Gender": "Male",
+    "Tags": [
+      "DPS",
+      "Control"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "aliEn T",
+      "zh": "星之眼",
+      "tw": "星之眼",
+      "jp": "ギベオンズアイ",
+      "kr": "에일리언 T"
+    }
+  },
+  {
+    "ID": 3033,
+    "Name": "TTT",
+    "Version": "1.0",
+    "Rarity": 4,
+    "Afflatus": "Star",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Control",
+      "Dispel"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "TTT",
+      "zh": "TTT",
+      "tw": "TTT",
+      "jp": "TTT",
+      "kr": "TTT"
+    }
+  },
+  {
+    "ID": 3032,
+    "Name": "Centurion",
+    "Version": "1.0",
+    "Rarity": 6,
+    "Afflatus": "Beast",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Ritual"
+        ]
+      },
+      {
+        "tags": [
+          "Shift"
+        ]
+      }
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Centurion",
+      "zh": "百夫长",
+      "tw": "百夫長",
+      "jp": "ケントゥリオン",
+      "kr": "센츄리온"
+    }
+  },
+  {
+    "ID": 3031,
+    "Name": "Cristallo",
+    "Version": "1.0",
+    "Rarity": 4,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "Support"
+    ],
+    "Other Name": "Hilma Mallas",
+    "LocaleName": {
+      "en": "Cristallo",
+      "zh": "铅玻璃",
+      "tw": "鉛玻璃",
+      "jp": "クリスタッロ",
+      "kr": "크리스탈로"
+    }
+  },
+  {
+    "ID": 3030,
+    "Name": "La Source",
+    "Version": "1.0",
+    "Rarity": 3,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "Heal"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "La Source",
+      "zh": "拉拉泉",
+      "tw": "拉拉泉",
+      "jp": "ララ・ファウンテン",
+      "kr": "라 수르스"
+    }
+  },
+  {
+    "ID": 3029,
+    "Name": "Schneider",
+    "Version": "CBT",
+    "Rarity": 5,
+    "Afflatus": "Beast",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "???"
+    ],
+    "Other Name": "",
+    "Alpha": "",
+    "LocaleName": {
+      "en": "Schneider",
+      "zh": "斯奈德",
+      "tw": "斯奈德",
+      "jp": "シュナイダー",
+      "kr": "슈나이더"
+    }
+  },
+  {
+    "ID": 3028,
+    "Name": "APPLe",
+    "Version": "1.0",
+    "Rarity": 4,
+    "Afflatus": "Star",
+    "Race": "Awakened",
+    "DMG Type": "Mental",
+    "Gender": "Male",
+    "Tags": [
+      "Heal"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "APPLe",
+      "zh": "APPLe",
+      "tw": "Apple",
+      "jp": "APPLe",
+      "kr": "APPLe"
+    }
+  },
+  {
+    "ID": 3027,
+    "Name": "Ms. Radio",
+    "Version": "1.0",
+    "Rarity": 2,
+    "Afflatus": "Spirit",
+    "Race": "Awakened",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Control"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Ms. Radio",
+      "zh": "无线电小姐",
+      "tw": "無線電小姐",
+      "jp": "ミス・ラジオ",
+      "kr": "미스 라디오"
+    }
+  },
+  {
+    "ID": 3026,
+    "Name": "Mondlicht",
+    "Version": "1.0",
+    "Rarity": 4,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Bullet"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Mondlicht",
+      "zh": "红斗篷",
+      "tw": "紅斗篷",
+      "jp": "モントリヒト",
+      "kr": "빨간 망토"
+    }
+  },
+  {
+    "ID": 3025,
+    "Name": "Regulus",
+    "Version": "1.0",
+    "Rarity": 6,
+    "Afflatus": "Star",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Inspiration"
+        ]
+      },
+      {
+        "tags": [
+          "Conduit"
+        ]
+      }
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Regulus",
+      "zh": "星锑",
+      "tw": "星銻",
+      "jp": "レグルス",
+      "kr": "레굴루스"
+    }
+  },
+  {
+    "ID": 3024,
+    "Name": "Balloon Party",
+    "Version": "1.0",
+    "Rarity": 5,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "Heal"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Balloon Party",
+      "zh": "气球派对",
+      "tw": "氣球派對",
+      "jp": "バルーンパーティー",
+      "kr": "벌룬 파티"
+    }
+  },
+  {
+    "ID": 3023,
+    "Name": "Sonetto",
+    "Version": "1.0",
+    "Rarity": 5,
+    "Afflatus": "Mineral",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Support",
+      "Control"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Sonetto",
+      "zh": "十四行诗",
+      "tw": "十四行詩",
+      "jp": "ソネット",
+      "kr": "소네트"
+    }
+  },
+  {
+    "ID": 3022,
+    "Name": "Dikke",
+    "Version": "1.0",
+    "Rarity": 5,
+    "Afflatus": "Beast",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "Heal"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Dikke",
+      "zh": "帕米埃",
+      "tw": "帕米埃",
+      "jp": "パミエ",
+      "kr": "디케"
+    }
+  },
+  {
+    "ID": 3020,
+    "Name": "Bkornblume",
+    "Version": "1.0",
+    "Rarity": 5,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Support",
+      "Control"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Support",
+          "Ritual"
+        ]
+      }
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Bkornblume",
+      "zh": "柏林以东",
+      "tw": "柏林以東",
+      "jp": "コーンブルメ",
+      "kr": "콘블룸"
+    }
+  },
+  {
+    "ID": 3018,
+    "Name": "Oliver Fog",
+    "Version": "1.0",
+    "Rarity": 4,
+    "Afflatus": "Star",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Male",
+    "Tags": [
+      "DPS",
+      "Support"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Oliver Fog",
+      "zh": "雾行者",
+      "tw": "霧行者",
+      "jp": "オリバー・フォッグ",
+      "kr": "올리버 포그"
+    }
+  },
+  {
+    "ID": 3017,
+    "Name": "Charlie",
+    "Version": "1.0",
+    "Rarity": 5,
+    "Afflatus": "Star",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Dispel"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Charlie",
+      "zh": "夏利",
+      "tw": "夏利",
+      "jp": "チャーリー",
+      "kr": "찰리"
+    }
+  },
+  {
+    "ID": 3016,
+    "Name": "Baby Blue",
+    "Version": "1.0",
+    "Rarity": 5,
+    "Afflatus": "Star",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Support",
+      "Control"
+    ],
+    "Other Name": "Rebecca Jones",
+    "LocaleName": {
+      "en": "Baby Blue",
+      "zh": "婴儿蓝",
+      "tw": "嬰兒藍",
+      "jp": "ベビーブルー",
+      "kr": "베이비 블루"
+    }
+  },
+  {
+    "ID": 3015,
+    "Name": "Pavia",
+    "Version": "1.0",
+    "Rarity": 4,
+    "Afflatus": "Beast",
+    "Race": "Mixed",
+    "DMG Type": "Mental",
+    "Gender": "Male",
+    "Tags": [
+      "DPS"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Pavia",
+      "zh": "狼群",
+      "tw": "狼群",
+      "jp": "パヴィア",
+      "kr": "파비아"
+    }
+  },
+  {
+    "ID": 3014,
+    "Name": "Bunny Bunny",
+    "Version": "1.0",
+    "Rarity": 4,
+    "Afflatus": "Beast",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "Heal",
+      "Purify"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Bunny Bunny",
+      "zh": "芭妮芭妮",
+      "tw": "芭妮芭妮",
+      "jp": "バニーバニー",
+      "kr": "바니바니"
+    }
+  },
+  {
+    "ID": 3013,
+    "Name": "Зима",
+    "Version": "1.0",
+    "Rarity": 4,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Male",
+    "Tags": [
+      "Support",
+      "Control"
+    ],
+    "Other Name": "Zima",
+    "LocaleName": {
+      "en": "Зима",
+      "zh": "冬",
+      "tw": "冬",
+      "jp": "ズィマー",
+      "kr": "겨울"
+    }
+  },
+  {
+    "ID": 3012,
+    "Name": "The Fool",
+    "Version": "1.0",
+    "Rarity": 3,
+    "Afflatus": "Star",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Male",
+    "Tags": [
+      "DPS"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "The Fool",
+      "zh": "弄臣",
+      "tw": "弄臣",
+      "jp": "ジェスター",
+      "kr": "광대"
+    }
+  },
+  {
+    "ID": 3011,
+    "Name": "Sweetheart",
+    "Version": "1.0",
+    "Rarity": 5,
+    "Afflatus": "Beast",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Control"
+    ],
+    "Other Name": "Marilyn",
+    "LocaleName": {
+      "en": "Sweetheart",
+      "zh": "玛丽莲",
+      "tw": "瑪麗蓮",
+      "jp": "スイートハート",
+      "kr": "마릴린"
+    }
+  },
+  {
+    "ID": 3010,
+    "Name": "X",
+    "Version": "1.0",
+    "Rarity": 5,
+    "Afflatus": "Intelligence",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Male",
+    "Tags": [
+      "DPS",
+      "Dispel",
+      "Control"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "X",
+      "zh": "X",
+      "tw": "X",
+      "jp": "X",
+      "kr": "X"
+    }
+  },
+  {
+    "ID": 3009,
+    "Name": "Sotheby",
+    "Version": "1.0",
+    "Rarity": 6,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "Heal",
+      "Poison"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Heal",
+          "Poison"
+        ]
+      }
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Sotheby",
+      "zh": "苏芙比",
+      "tw": "蘇芙比",
+      "jp": "サザビー",
+      "kr": "소더비"
+    }
+  },
+  {
+    "ID": 3007,
+    "Name": "A Knight",
+    "Version": "1.0",
+    "Rarity": 6,
+    "Afflatus": "Spirit",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Male",
+    "Tags": [
+      "DPS"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Ritual"
+        ]
+      }
+    ],
+    "Other Name": "Roland",
+    "LocaleName": {
+      "en": "A Knight",
+      "zh": "未锈铠",
+      "tw": "未鏽鎧",
+      "jp": "ナイト",
+      "kr": "A 나이트"
+    }
+  },
+  {
+    "ID": 3006,
+    "Name": "Eagle",
+    "Version": "1.0",
+    "Rarity": 4,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Eagle",
+      "zh": "小春雀儿",
+      "tw": "小春雀兒",
+      "jp": "リトルイーグル",
+      "kr": "이글"
+    }
+  },
+  {
+    "ID": 3005,
+    "Name": "Nick Bottom",
+    "Version": "1.0",
+    "Rarity": 4,
+    "Afflatus": "Beast",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Male",
+    "Tags": [
+      "Support"
+    ],
+    "Other Name": "",
+    "LocaleName": {
+      "en": "Nick Bottom",
+      "zh": "尼克·波顿",
+      "tw": "尼克·波頓",
+      "jp": "ニック・ボトム",
+      "kr": "닉 보텀"
+    }
+  },
+  {
+    "ID": 3004,
+    "Name": "Lilya",
+    "Version": "1.0",
+    "Rarity": 6,
+    "Afflatus": "Star",
+    "Race": "Arcanist",
+    "DMG Type": "Reality",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Follow-Up"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Ritual"
+        ]
+      },
+      {
+        "tags": [
+          "Extra Action",
+          "Bullet"
+        ]
+      }
+    ],
+    "Other Name": "Лиля",
+    "LocaleName": {
+      "en": "Lilya",
+      "zh": "红弩箭",
+      "tw": "紅弩箭",
+      "jp": "リーリャ",
+      "kr": "릴리아"
+    }
+  },
+  {
+    "ID": 3003,
+    "Name": "Druvis III",
+    "Version": "1.0",
+    "Rarity": 6,
+    "Afflatus": "Plant",
+    "Race": "Arcanist",
+    "DMG Type": "Mental",
+    "Gender": "Female",
+    "Tags": [
+      "DPS",
+      "Support",
+      "Control"
+    ],
+    "euphoria": [
+      {
+        "tags": [
+          "Petrify"
+        ]
+      },
+      {
+        "tags": [
+          "Rank Up"
+        ]
+      }
+    ],
+    "Other Name": "Druvis Weyerhaeuser III",
+    "LocaleName": {
+      "en": "Druvis III",
+      "zh": "槲寄生",
+      "tw": "槲寄生",
+      "jp": "ドルーヴィスⅢ",
+      "kr": "드루비스"
+    }
+  }
+]

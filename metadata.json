@@ -1,0 +1,6 @@
+{
+  "name": "UTTU Merui Character Portrait Cropper (6:9)",
+  "description": "Reverse: 1999 character search and portrait studio with 6:9 full-body framing, version-matched posters, and bulk asset export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
